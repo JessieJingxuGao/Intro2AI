@@ -1,11 +1,17 @@
 # Intro2AI
 
-I developed and taught this Intro2AI course to 6 8th-graders and 9-graders during summer 2024.
+I developed and taught this 5-day Intro2AI course to 6 8th-graders and 9-graders during summer 2024.
 
 Thanks to the great content providers!
 - [code.org/ai](https://code.org/ai)
 - [MIT Raise](https://raise.mit.edu/daily/whatisai) 
 - [Stanford CS224n](https://web.stanford.edu/class/cs224n/) (for training me up)
+
+
+
+Course Agenda:
+![image](https://github.com/user-attachments/assets/90be8dde-7b56-4013-b13c-44d0b730d5f0)
+
 
 
 Some course snippets:
