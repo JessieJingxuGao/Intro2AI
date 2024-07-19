@@ -12,8 +12,7 @@ Course Agenda:
 ![image](https://github.com/user-attachments/assets/90be8dde-7b56-4013-b13c-44d0b730d5f0)
 
 Links to course materials:
-- [Day 5 - Final Project Guide](https://docs.google.com/presentation/d/1VouffP7RvMvsSXsSgsXLvn4SDAZSOCvs3vejR2neWAg/edit#slide=id.g2787b7136a9_0_0)  
-- [Day 5 - Template for Comic Book](https://docs.google.com/presentation/d/1GOhQ6mP6NN_MHkbWNIuoes3zmXQ98xtQ8cyJEiAcA44/edit?usp=sharing)  
+- Day 5: [Final Project Guide](https://docs.google.com/presentation/d/1VouffP7RvMvsSXsSgsXLvn4SDAZSOCvs3vejR2neWAg/edit#slide=id.g2787b7136a9_0_0), [Template for Comic Book](https://docs.google.com/presentation/d/1GOhQ6mP6NN_MHkbWNIuoes3zmXQ98xtQ8cyJEiAcA44/edit?usp=sharing)  
 (Or find all in this [Drive folder link](https://drive.google.com/drive/folders/1JvSsd_bRspjCxtTWVkUIB8PRJcTjOpAL))
 
 
