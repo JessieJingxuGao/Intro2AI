@@ -12,6 +12,8 @@ Thanks to the great content providers!
 Course Agenda:
 ![image](https://github.com/user-attachments/assets/90be8dde-7b56-4013-b13c-44d0b730d5f0)
 
+Links to course materials:
+[Day 5 - Template for Comic Book]([https://docs.google.com/presentation/d/1GOhQ6mP6NN_MHkbWNIuoes3zmXQ98xtQ8cyJEiAcA44/edit#slide=id.g2a97f2da285_0_50](https://docs.google.com/presentation/d/1GOhQ6mP6NN_MHkbWNIuoes3zmXQ98xtQ8cyJEiAcA44/edit?usp=sharing)) 
 
 
 Some course snippets:
