@@ -2,12 +2,11 @@
 
 I developed and taught this 5-day Intro2AI course to 6 8th-graders and 9-graders during summer 2024.
 
-Thanks to the great content providers!
+Thanks to the great content providers below, from which I was able to find a lot of ready-made slides, activities, videos I could reuse:
 - [Code.org/ai](https://code.org/ai)
 - [MIT Raise](https://raise.mit.edu/daily/whatisai) 
 - [Stanford CS224n](https://web.stanford.edu/class/cs224n/) (for training me up)
-
-
+- [Financial Time Article](https://ig.ft.com/ai-animals/) One of the greated article I read about AI knowledge sharing for general public
 
 Course Agenda:
 ![image](https://github.com/user-attachments/assets/90be8dde-7b56-4013-b13c-44d0b730d5f0)
