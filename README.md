@@ -14,7 +14,7 @@ Course Agenda:
 Links to course materials:
 - Day 5: [Final Project Guide](https://docs.google.com/presentation/d/1VouffP7RvMvsSXsSgsXLvn4SDAZSOCvs3vejR2neWAg/edit#slide=id.g2787b7136a9_0_0), [Template for Comic Book](https://docs.google.com/presentation/d/1GOhQ6mP6NN_MHkbWNIuoes3zmXQ98xtQ8cyJEiAcA44/edit?usp=sharing)  
 (Or find all in this [Drive folder link](https://drive.google.com/drive/folders/1JvSsd_bRspjCxtTWVkUIB8PRJcTjOpAL))
-- Day1-4 Demo：[Course snippets]（https://github.com/JessieJingxuGao/Intro2AI/tree/main/Day1-4%20-%20Class%20Snippets）
+- Day1-4 Demo：[Course snippets](https://github.com/JessieJingxuGao/Intro2AI/tree/main/Day1-4%20-%20Class%20Snippets）
 
 
 
